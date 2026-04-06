@@ -12,7 +12,8 @@ def contar_ciclo(n):
     """
     # Escriba aquí su solución y borre la palabra pass de acontinuación
     
-
+    print(n)
+    print("hola")
     
         
 
